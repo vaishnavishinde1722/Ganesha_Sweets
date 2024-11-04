@@ -1,0 +1,35 @@
+.text-decor{
+    text-decoration: none;
+}
+.text-center{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.font{
+    font-family: "Itim", cursive;
+    font-size: 50px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.sec-font{
+    font-size: 50px;
+    color:tomato ;
+}
+.tert-font{
+    font-size: 20px;
+}
+.button{
+    height: 25px;
+    width: 100px;
+    background-color: tomato;
+    border: 3px black solid;
+    display: block;
+    border-radius: 10px;
+    color: #fcf6e1;
+}
+.button:hover{
+    border: tomato;
+}

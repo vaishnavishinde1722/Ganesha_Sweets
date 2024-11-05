@@ -1,0 +1,25 @@
+.card-container{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+
+}
+.card{
+    height: 400px;
+    width: 300px;
+    background-color: #f9e4ce;
+    margin: 20px;
+}
+.card-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    margin-left:15%;
+    margin-top: 20px
+}
+.button-margin{
+    margin-left: 30%;
+}

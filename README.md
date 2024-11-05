@@ -7,4 +7,4 @@ every customer
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/d304e964-82cc-4186-b827-85d9370eaf15)
 
-< a href="https://github.com/vaishnavishinde1722"> <img src="https://avatars.githubusercontent.com/u/173824401?v=4"></a>
+<a href="https://github.com/vaishnavishinde1722/Ganesha_Sweets/graphs/contributors"> <img src="https://avatars.githubusercontent.com/u/173824401?v=4" height="50px" width="50px" ></a>

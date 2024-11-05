@@ -1,7 +1,16 @@
 .container{
     height: 500px;
     width: 500px;
-    background-color: tomato;
+    background-color: #f9e4ce;
     margin: auto;
     margin-top: 40px;
+}
+.inner-container{
+    margin: auto;
+    padding: 50px;
+}
+body{
+    background-color:#f9e4ce ;
+    margin: 0;
+    padding: 0;
 }

@@ -39,3 +39,6 @@ body{
 .button:hover{
     border: tomato;
 }
+.button-margin{
+    margin-left: 30%;
+}
